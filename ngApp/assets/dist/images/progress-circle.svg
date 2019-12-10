@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dial" version="1.1" viewBox="0 0 220 198">
+ <g transform="translate(0 2.4099)">
+  <path class="outline" d="m37.157 178.45a97.468 97.501 0 0 1 0.000001 -137.89 97.468 97.501 0 0 1 137.84 0.000001 97.468 97.501 0 0 1 0 137.89"/>
+  <path d="m37.157 178.45c-1.0286-1.029-2.0306-2.077-3.0058-3.1433" class="filler"/>
+  <ellipse rx="9.8912" ry="9.9135" cy="178.45" cx="37.157" class="blob"/>
+ </g>
+</svg>

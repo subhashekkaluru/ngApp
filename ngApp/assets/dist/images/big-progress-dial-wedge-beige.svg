@@ -1,0 +1,17 @@
+<svg id="svg10" xmlns="http://www.w3.org/2000/svg" class="dial" viewBox="0 0 100 10" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs6">
+  <linearGradient id="linearGradient4782" y2="5" gradientUnits="userSpaceOnUse" x2="100.1" y1="5" x1="-.0043168">
+   <stop id="stop9255" style="stop-color:#20242b" offset="0"/>
+   <stop id="stop9263" style="stop-color:#32373f" offset=".77004"/>
+   <stop id="stop9257" style="stop-color:#aeb6c3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4790" y2="5.2473" gradientUnits="userSpaceOnUse" x2="61.784" y1="150.95" x1="61.784">
+   <stop id="stop4784" style="stop-opacity:0" offset="0"/>
+   <stop id="stop4794" style="stop-color:#0e0e0e;stop-opacity:0" offset=".66325"/>
+   <stop id="stop4792" style="stop-color:#dcaf71" offset=".66325"/>
+   <stop id="stop4786" style="stop-color:#e0ae6e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path4755" d="m69.336 150.88-83.933-145.38 167.87-0.0016z" style="fill:url(#linearGradient4790)" transform="matrix(0 .059571 -.68786 0 103.78 .86957)"/>
+ <path id="use16337" style="fill:url(#linearGradient4782);display:none" d="m1516.9 715.15a213.06 213.06 0 0 1 10.939 18.732l-189.22 97.941z"/>
+</svg>
