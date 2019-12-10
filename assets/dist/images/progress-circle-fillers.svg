@@ -1,0 +1,22 @@
+<svg id="svg10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 198" version="1.1" class="dial-fillers">
+ <path id="filler100" value="100" style="stroke:#000;stroke-width:3;fill:none" d="m37.157 180.86a97.468 97.501 0 0 1 0.000001 -137.89 97.468 97.501 0 0 1 137.84 0.000001 97.468 97.501 0 0 1 0 137.89" class="filler"/>
+ <path id="filler95" value="95" style="stroke:#ff3d00;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 32.55 32.56 37.266 82.419 14.149 119.99" class="filler"/>
+ <path id="filler90" value="90" style="stroke:#ffb74d;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 26.858 26.866 34.766 65.51 23.723 99.312" class="filler"/>
+ <path id="filler85" value="85" style="stroke:#e040fb;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 21.027 21.033 30.438 49.285 28.236 76.78" class="filler"/>
+ <path id="filler80" value="80" style="stroke:#d32f2f;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 15.225 15.229 24.36 34.243 27.406 54.014" class="filler"/>
+ <path id="filler75" value="75" style="stroke:#0288d1;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 9.4075 9.4103 16.49 20.266 21.248 31.852" class="filler"/>
+ <path id="filler70" value="70" style="stroke:#00897b;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 38.064-38.076 99.776-38.076 137.84 0.000001 3.7325 3.7337 7.0991 7.6948 10.1 11.839" class="filler"/>
+ <path id="filler65" value="65" style="stroke:#e57373;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 36.282-36.295 94.053-37.993 132.34-5.095" class="filler"/>
+ <path id="filler60" value="60" style="stroke:#0091ea;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 30.656-30.666 76.653-36.634 113.28-17.903" class="filler"/>
+ <path id="filler55" value="55" style="stroke:#90a4ae;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 24.871-24.879 59.838-33.502 91.703-25.869" class="filler"/>
+ <path id="filler50" value="50" style="stroke:#f57f17;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 19.032-19.038 43.976-28.557 68.923-28.557" class="filler"/>
+ <path id="filler45" value="45" style="stroke:#9e9d24;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 13.185-13.19 29.208-21.81 46.103-25.862" class="filler"/>
+ <path id="filler40" value="40" style="stroke:#00b0ff;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.08-38.065-99.813 0-137.89 7.397-7.4 15.688-13.362 24.525-17.885" class="filler"/>
+ <path id="filler35" value="35" style="stroke:#f50057;stroke-width:3;fill:none" d="m37.157 180.86c-38.065-38.077-38.065-99.813 0.000001-137.89 1.7801-1.7807 3.612-3.4781 5.4907-5.0923" class="filler"/>
+ <path id="filler30" value="30" style="stroke:#d500f9;stroke-width:3;fill:none" d="m37.157 180.86c-34.336-34.35-37.7-87.943-10.093-126.06" class="filler"/>
+ <path id="filler25" value="25" style="stroke:#f29312;stroke-width:3;fill:none" d="m37.157 180.86c-28.658-28.67-35.74-70.74-21.248-106.04" class="filler"/>
+ <path id="filler20" value="20" style="stroke:#ff3d00;stroke-width:3;fill:none" d="m37.157 180.86c-22.847-22.85-31.981-54.23-27.403-83.898" class="filler"/>
+ <path id="filler15" value="15" style="stroke:#546e7a;stroke-width:3;fill:none" d="m37.157 180.86c-17.04-17.05-26.452-38.83-28.236-61.11" class="filler"/>
+ <path id="filler10" value="10" style="stroke:#651fff;stroke-width:3;fill:none" d="m37.157 180.86c-11.213-11.22-19.124-24.49-23.731-38.6" class="filler"/>
+ <path id="filler5" value="5" style="stroke:#40c4ff;stroke-width:3;fill:none" d="m37.157 180.86c-5.516-5.52-10.232-11.53-14.149-17.9" class="filler"/>
+</svg>
